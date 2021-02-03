@@ -4,4 +4,6 @@ Built with Vanilla JavaScript.
 
 📌 **Check It Out**
 
-- [UI Modal Window](https://guess-that-number.web.app)
+📌 **Not Mobil Friendly**
+
+- [UI Modal Window](https://ui-modal-window.web.app)
